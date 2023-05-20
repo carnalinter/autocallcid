@@ -6,6 +6,8 @@
 ###### CID获取群2：795085239 
 ###### CID获取群3：795120273
 
+![image](https://github.com/laomms/AutoCallCID/blob/laomms/pic.png)    
+
 
 
 
