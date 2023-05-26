@@ -1,5 +1,8 @@
 ## Auto call skype to obtain CID    
 
+###### Telegram group: t.me/get_cid    
+
+
 #### 鉴于很多地方因为区域原因拨打不了。改用QQ机器人帮忙获取。加群即有5次使唤机器人自动拨打电话机会。
 
 ###### CID获取群1：535961469 
